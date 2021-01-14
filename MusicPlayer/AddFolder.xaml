@@ -1,0 +1,34 @@
+﻿<Window x:Class="MusicPlayer.AddFolder"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MusicPlayer"
+        mc:Ignorable="d"
+        Title="Add Folder" Height="316.15" Width="567.271" WindowStyle="None" AllowsTransparency="True" Background="{x:Null}" HorizontalContentAlignment="Center" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Margin="14" Background="White">
+        <Grid.Effect>
+            <DropShadowEffect BlurRadius="15" Direction="280" ShadowDepth="0" Opacity="0.6"/>
+        </Grid.Effect>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="21"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Rectangle x:Name="toolbar" Fill="#FF80D8FF" MouseLeftButtonDown="Toolbar_MouseLeftButtonDown" />
+        <Ellipse x:Name="close" Fill="#FFEF5350" Width="16" HorizontalAlignment="Right" Margin="0,0,2,0" MouseLeftButtonDown="Close_MouseLeftButtonDown" Cursor="Hand" ToolTip="Close" Height="16" VerticalAlignment="Center" />
+        <TextBox x:Name="AddressBar" HorizontalAlignment="Left" Height="45" TextWrapping="Wrap" Text="Address" VerticalAlignment="Top" Width="396" Margin="27,57,0,0" Grid.Row="1" Padding="10" FontSize="16" Background="#FFF9F9F9" BorderBrush="#FF57BAFF" IsEnabled="False"/>
+        <Border x:Name="addfolder_btn" BorderThickness="1" HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="84" Margin="0,57,27,0" Grid.Row="1" CornerRadius="6" Background="DodgerBlue" MouseLeftButtonDown="Addfolder_btn_MouseLeftButtonDown" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave">
+            <Label Content="Choose" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="16" Foreground="White" FontWeight="Bold" Cursor="Hand" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </Border>
+        <Label Content="Choose music folder" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="1" Margin="27,24,0,0" FontSize="16"/>
+        <Grid x:Name="colorgrid" Grid.Row="1" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,10">
+            <Border x:Name="color1" Cursor="Hand" Background="#FF1E90FF" Grid.Row="1" Width="40" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="130,0,0,62" CornerRadius="10" MouseLeftButtonDown="set_theme" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave"/>
+            <Border x:Name="color2" Cursor="Hand" Background="#FFD32F2F" Grid.Row="1" Width="40" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="130,0,0,17" CornerRadius="10" MouseLeftButtonDown="set_theme" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave"/>
+            <Border x:Name="color3" Cursor="Hand" Background="#FFFFA726" Grid.Row="1" Width="40" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="175,0,0,62" CornerRadius="10" MouseLeftButtonDown="set_theme" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave"/>
+            <Border x:Name="color4" Cursor="Hand" Background="#FF66BB6A" Grid.Row="1" Width="40" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="175,0,0,17" CornerRadius="10" MouseLeftButtonDown="set_theme" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave"/>
+            <Border x:Name="color5" Cursor="Hand" Background="#FF9C27B0" Grid.Row="1" Width="40" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="220,0,0,62" CornerRadius="10" MouseLeftButtonDown="set_theme" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave"/>
+            <Border x:Name="color6" Cursor="Hand" Background="#FFD81B60" Grid.Row="1" Width="40" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="220,0,0,17" CornerRadius="10" MouseLeftButtonDown="set_theme" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave"/>
+            <Label Content="App color : " HorizontalAlignment="Left" VerticalAlignment="Bottom" Grid.Row="1" Margin="27,0,0,46" FontSize="16"/>
+        </Grid>
+    </Grid>
+</Window>

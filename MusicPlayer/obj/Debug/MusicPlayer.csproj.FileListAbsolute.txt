@@ -1,0 +1,31 @@
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\App.g.cs
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MainWindow.baml
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Resources\ic_play_black.png
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\AddFolder.g.cs
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\AddFolder.baml
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\taglib-sharp.dll
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\App.baml
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Resources\ic_clear_gray.png
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Resources\ic_forward_black.png
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Resources\ic_pause_black.png
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Resources\ic_pause_white.png
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Resources\ic_play_white.png
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Resources\ic_previous_black.png
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Resources\ic_setting_white.png
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Resources\ic_music_note_white.png
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Mr Music.exe.config
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Mr Music.exe
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Mr Music.pdb
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\Mr Music_MarkupCompile.cache
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\Mr Music_MarkupCompile.lref
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\Mr Music.g.resources
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\Mr Music.exe
+C:\Users\Mr sfg\source\repos\MusicPlayer\MusicPlayer\obj\Debug\Mr Music.pdb
