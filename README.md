@@ -1,16 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 >Mr Music 😍🔥</h1>
-<p class="has-line-data" data-line-start="6" data-line-end="7">free windows Music player with the best material design graphics</p><br>
-
-<table width="100%">
-<tr>
-<td>Program language</td>
-<td>C#</td>
-</tr>
-<tr>
-<td>Technology</td>
-<td>Wpf</td>
-</tr>
-</table>
+<p class="has-line-data" data-line-start="6" data-line-end="7">free windows Music player with the best material design graphics</p>
 
 <br>
 <h3><a href="https://www.mediafire.com/file/9uwyks1bmvp89mj/mr_music_full.exe/file">Download Mr Music + (.NET Framework 4)</a> --> 52.42 Mb</h3><br>
