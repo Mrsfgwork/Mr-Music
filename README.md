@@ -6,7 +6,7 @@
 <h3><a href="https://www.mediafire.com/file/dczmm1955dqmn5k/mr_music.exe/file">Download Mr Music</a> --> 3.48 Mb</h3>
 <h4>This version requires the .NET Framework version 4 or higher</h4>
 
-<br><br><h3><a href="https://www.paypal.com/paypalme/mrsfgwork1
+<br><br><h3><a href="https://www.paypal.com/paypalme/mrsfgwork
 ">PayPal link to support us 💕🙏</a></h3>
 
 <br><h1 class="code-line" data-line-start=12 data-line-end=13 >6 material design color themes 😋!</h1>
